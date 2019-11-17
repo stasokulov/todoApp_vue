@@ -6,6 +6,7 @@
 Требует установки vue cli: npm install -g @vue/cli
 
 Локальная сборка: npm run serve
+
 Сборка для продакшена: npm run build
 
 В файле vue.config.js установлено значение для работы прод. сборки на Github Pages.
